@@ -1,0 +1,7 @@
+flask==1.1.1
+PyYAML==5.1.2
+munch==2.3.2
+requests==2.22.0
+Flask-PyMongo==2.3.0
+flask_jsontools==0.1.5
+uWSGI==2.0.18

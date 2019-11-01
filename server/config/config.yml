@@ -1,0 +1,4 @@
+database:
+  uri: "mongodb://localhost:27017/university_session"
+
+secret_key: secret
